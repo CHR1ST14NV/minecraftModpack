@@ -23,16 +23,8 @@ Desde ahí, cada vez que abras el juego se ponen al día los mods solos.
 - Podés agregar mods propios que sean solo visuales (shaders, minimapa) en la carpeta `mods` de tu instancia.
 - Si un día no conecta, cerrá el juego y volvé a abrirlo para que se actualicen los mods.
 
-## Para Christian: cambiar mods
+## Para el dueño del servidor: cambiar mods
 
-Los mods están en `mods/*.pw.toml` y se manejan con [packwiz](https://packwiz.infra.link):
-
-```
-packwiz mr add nombre-del-mod     # agregar desde Modrinth
-packwiz remove nombre-del-mod     # quitar
-packwiz update --all              # actualizar todos
-```
-
-Un mod que solo necesita el servidor lleva `side = "server"` en su `.pw.toml`; uno solo de jugadores, `side = "client"`.
-Después: commit y push. Los jugadores lo reciben al abrir el juego; el servidor, con `ACTUALIZAR.bat`
-o en su próximo reinicio.
+Los mods se agregan y quitan desde el **panel del servidor** (pestaña Mods, http://localhost:8080
+en la PC del servidor). Cada cambio se publica solo en este repo; no hay que editarlo a mano,
+porque la próxima publicación del panel lo pisaría.
