@@ -6,6 +6,11 @@ hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
+file = "mods/battle-towers.pw.toml"
+hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
