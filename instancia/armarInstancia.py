@@ -41,7 +41,10 @@ def instance_cfg():
         f"name={NOMBRE}",
         "iconKey=default",
         "OverrideCommands=true",
-        f'PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar {URL_PACK}',
+        # Prism lee este archivo con el formato INI de Qt: un valor que empieza con comillas se toma
+        # como texto entre comillas, asi que las comillas internas van escapadas. Sin esto Prism
+        # guardaba "$INST_JAVA-jar" todo junto y el juego no arrancaba.
+        f'PreLaunchCommand="\\"$INST_JAVA\\" -jar packwiz-installer-bootstrap.jar {URL_PACK}"',
         "OverrideMemory=true",
         "MinMemAlloc=2048",
         f"MaxMemAlloc={RAM_MAXIMA_MB}",
