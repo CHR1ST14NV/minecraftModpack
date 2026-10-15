@@ -1,0 +1,13 @@
+name = "Servidor de los cuates"
+author = "Christian"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "88a6e9aadafe1853ec6a94ba28a02d417d4021a51191ca2d6ecbee799bf24183"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"
