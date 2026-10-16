@@ -1,0 +1,13 @@
+name = "Disenchanter Multiblock"
+filename = "disenchanter-setup-1.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ot8V8cqC/versions/RPdZ9ABb/disenchanter-setup-1.0.0.0.jar"
+hash-format = "sha512"
+hash = "7a4bd2a39e56069c01a85782171d8399fc04f7621715e020b98acc62b4ab39ecad7f001b60193d39fdad93ab3d3c28758215cd876f1485391d2ec562d1c7dc82"
+
+[update]
+[update.modrinth]
+mod-id = "Ot8V8cqC"
+version = "RPdZ9ABb"
