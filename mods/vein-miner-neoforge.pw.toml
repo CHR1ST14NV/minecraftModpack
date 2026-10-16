@@ -1,0 +1,13 @@
+name = "Simple Vein Miner"
+filename = "Simple Vein Miner 1.2 - NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PFx6KeS7/versions/PrOVZx3c/Simple%20Vein%20Miner%201.2%20-%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "a2d9e21b61ead00163cc4ff222d0c1ce5b4d58392e4214705e3e6a5aadba7c469446d4d5baee48b03a0698bdd869f8538d5ea05fce8fcd1114dd691f817cd19d"
+
+[update]
+[update.modrinth]
+mod-id = "PFx6KeS7"
+version = "PrOVZx3c"
