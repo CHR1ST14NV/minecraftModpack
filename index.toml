@@ -156,6 +156,11 @@ hash = "a2be1e7cfc412555459fc98fcdfd6957411fff40a87a7ca5caf7ce13c61884ad"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/ore-vein-miner.pw.toml"
 hash = "9cfd085d29e433e5e0dbaae108ec33d733b0fb0bca3e72c0b554de59468f7a95"
 metafile = true
