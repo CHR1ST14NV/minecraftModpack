@@ -1,0 +1,13 @@
+name = "Ore And More [Forge/Neoforge]"
+filename = "Ore And More for NeoForge 1.21.1 (v7.4.5).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ylDyehWR/versions/9cBGSN9Y/Ore%20And%20More%20for%20NeoForge%201.21.1%20%28v7.4.5%29.jar"
+hash-format = "sha512"
+hash = "05d8bdc54a42dbc21e0f62e33583995992f8d5cb79de99d1d4d0de582bed74a9e432e6a00966baf9f4721c775c0460192b34bae00810d19d28af4be8c935df15"
+
+[update]
+[update.modrinth]
+mod-id = "ylDyehWR"
+version = "9cBGSN9Y"
