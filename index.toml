@@ -136,6 +136,11 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
+file = "mods/potion-ring-reforged.pw.toml"
+hash = "b26bd36253cdde4b7771d7191faff7cf2d783658ed7345adfd6b82a31ea978a5"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
