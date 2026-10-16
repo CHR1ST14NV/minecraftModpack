@@ -111,6 +111,11 @@ hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
+file = "mods/ore-vein-miner.pw.toml"
+hash = "9cfd085d29e433e5e0dbaae108ec33d733b0fb0bca3e72c0b554de59468f7a95"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
