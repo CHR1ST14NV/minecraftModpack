@@ -16,8 +16,18 @@ hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
 metafile = true
 
 [[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "f06ffaf5e2e06ee937a20f4c59644438ef33ce31c6ab289b579876b9803b4dc0"
+metafile = true
+
+[[files]]
 file = "mods/better-tools-and-armor.pw.toml"
 hash = "1e44ac8be4c72d68f87344196dceb2e743cf23c3f79fb1a9a53e05f0ec22b8d2"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "ac20c51937d8fa76f37bb1dee9c9ef2f0e51f0079f2f02547b38901e6350867e"
 metafile = true
 
 [[files]]
@@ -223,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "fa561f7a526241e08d517812f3e0b907809fff4241a93bfcc1263501763f7337"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "59f0ddb50597f1bec9a062ff4a2b11215541494ac74a61214358a4b5994164a8"
 metafile = true
 
 [[files]]
