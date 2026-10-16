@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/teleport-commands.pw.toml"
-hash = "65e94e2656d10ed62b760e1a4b720761f1637bb5cedc5be9c6907b7bc58153ee"
+hash = "25697a5414d68dcc9b7126891cd7c110e9ca4ef9c82c8158e8d80c6beb3c81ac"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Teleport Commands"
 filename = "teleport_commands-1.21.1-v1.3.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/3ne670on/versions/YoOeKNAU/teleport_commands-1.21.1-v1.3.5.jar"
