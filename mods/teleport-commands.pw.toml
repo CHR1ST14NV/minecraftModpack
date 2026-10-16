@@ -1,0 +1,13 @@
+name = "Teleport Commands"
+filename = "teleport_commands-1.21.1-v1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ne670on/versions/YoOeKNAU/teleport_commands-1.21.1-v1.3.5.jar"
+hash-format = "sha512"
+hash = "7be95c1520e03ef38395f3752f707630c581c25fdedcd5c381a64d2628081bbb563da22d41b2b8f4200e8d64b2b24ec1249b052a58889c12864aa6348c416fe0"
+
+[update]
+[update.modrinth]
+mod-id = "3ne670on"
+version = "YoOeKNAU"
