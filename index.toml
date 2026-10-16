@@ -41,6 +41,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/bountifulbaublesreforked.pw.toml"
+hash = "5e448ec91d1e74c75d59e6463ff4384ec927cbb21468715147cab8e81bf69b18"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
