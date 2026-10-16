@@ -181,6 +181,11 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
 metafile = true
@@ -303,4 +308,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
