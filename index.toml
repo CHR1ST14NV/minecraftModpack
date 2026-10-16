@@ -51,11 +51,6 @@ hash = "d91f3fba4254c554a330a870d48842cfda4606816ec0e922be920d4bdea6b7f8"
 metafile = true
 
 [[files]]
-file = "mods/ore-and-more-plus-oam.pw.toml"
-hash = "59a349da1ac6905757c0d543c6a2e0448c433c150065cabd379e25993991e9dc"
-metafile = true
-
-[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
 metafile = true
