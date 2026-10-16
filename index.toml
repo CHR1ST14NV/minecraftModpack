@@ -96,6 +96,11 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
+file = "mods/taczaddon.pw.toml"
+hash = "3b5012002d2b9a4052a9aba687aa3dc001fa763c4b771e355f41057d614fe523"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
