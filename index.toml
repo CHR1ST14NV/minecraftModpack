@@ -11,6 +11,11 @@ hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
 metafile = true
 
 [[files]]
+file = "mods/better-tools-and-armor.pw.toml"
+hash = "1e44ac8be4c72d68f87344196dceb2e743cf23c3f79fb1a9a53e05f0ec22b8d2"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true

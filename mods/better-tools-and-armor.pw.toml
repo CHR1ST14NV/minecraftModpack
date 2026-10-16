@@ -1,0 +1,13 @@
+name = "Better Tools and Armor"
+filename = "better_tools_and_armor_v13.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okgQTgJi/versions/ne3nsqCW/better_tools_and_armor_v13.1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "146dbd43f3179be1fb5133b565fce52f35881d9e2b460f2f6cb3b7b867a357ee81fa43166074c33f235f98b9ac220397f88742891a06b66a289f697dc4b7288a"
+
+[update]
+[update.modrinth]
+mod-id = "okgQTgJi"
+version = "ne3nsqCW"
