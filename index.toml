@@ -166,11 +166,6 @@ hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
 
 [[files]]
-file = "mods/vein-miner-neoforge.pw.toml"
-hash = "8bdcdb6cefb14ba2dbdda8a3bbdf44bccecba455debc6d180abc5034df7d6403"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
