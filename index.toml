@@ -161,6 +161,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/henny-fullbright.pw.toml"
+hash = "ad972e9e130c12b8d723962766659b4e51341c9c7a677c584858ddbbfbf0ea2b"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "d32337d650f5b3aee6a54f5cd8cc43c7d05f5f9f353c61dda76f85427bb80409"
 metafile = true

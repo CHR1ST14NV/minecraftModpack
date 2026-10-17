@@ -1,0 +1,13 @@
+name = "Henny Fullbright"
+filename = "hennyfullbright-neoforge-1.21.1-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5W5lcXu/versions/14sUTJIX/hennyfullbright-neoforge-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "333d12e0e49c58ea100b1cc11d84a856eddbbd49ec6af5523cc5ae11cd2c469d8605f060baab7b84a89b79547ff9c04f248c7c01e110ca5a26a1de9b9755e077"
+
+[update]
+[update.modrinth]
+mod-id = "V5W5lcXu"
+version = "14sUTJIX"
