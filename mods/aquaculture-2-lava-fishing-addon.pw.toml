@@ -1,0 +1,13 @@
+name = "Aquaculture 2: Lava Fishing Addon"
+filename = "Aquaculture2LavaFishingAddon-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CSFxt0U5/versions/8BJZsbEo/Aquaculture2LavaFishingAddon-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "cb14aa8d5ff0f4a30de97cba0795e4bfe05e9a690c71d63e93b8df248d44584cce102d73e5d5cf4807bffddefa4f9eb2d021a36b40773ac8d7592dbe8089b5a8"
+
+[update]
+[update.modrinth]
+mod-id = "CSFxt0U5"
+version = "8BJZsbEo"

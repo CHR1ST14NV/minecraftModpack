@@ -26,6 +26,11 @@ hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-2-lava-fishing-addon.pw.toml"
+hash = "ce8c26bc5c68f5922c636e310029c6ccbdc02ce84e7cef571d55b6956c0f2bde"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
