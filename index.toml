@@ -101,6 +101,11 @@ hash = "ece75553ac57ccd8cf2356862f0f0a9d3cf6cc5b7ac29b2100366d6debb276a8"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
