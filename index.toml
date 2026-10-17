@@ -151,6 +151,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/fish-n-ships.pw.toml"
+hash = "5cbbe4753f3b0f3b875609274a5099f2e77fd491a356dc34620fe33a16a21ee4"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/henny-fullbright.pw.toml"
 hash = "ad972e9e130c12b8d723962766659b4e51341c9c7a677c584858ddbbfbf0ea2b"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-api.pw.toml"
+hash = "fdc55b26800127cafd9a88b2bd03615fc49ced589cffb036145d98c029af437f"
 metafile = true
 
 [[files]]
