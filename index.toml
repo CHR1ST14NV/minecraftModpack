@@ -291,6 +291,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "2ed6b1ac983612afdae44e18d976967f28f2c48ed35c8aeec84e824c730faad5"
+metafile = true
+
+[[files]]
 file = "mods/ore-growth.pw.toml"
 hash = "6e9f10b267b4f4eb0b4c29d2e1f71251b38cfaf5320e8421e1bdd31664256253"
 metafile = true
