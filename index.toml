@@ -656,6 +656,11 @@ hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
 
 [[files]]
+file = "mods/ultimine-rewind.pw.toml"
+hash = "42e772883c2ba6e32b3c80a978ed5713e473a15f2fd71c46d6197c32ee119a32"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
