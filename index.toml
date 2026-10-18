@@ -441,6 +441,11 @@ hash = "b3067f888940c076f229228193ac3b7b3925d57503929ca9e6af9032a6d65e51"
 metafile = true
 
 [[files]]
+file = "mods/squat-grow.pw.toml"
+hash = "33f7395d4e7b429abf6d57899becf024149621a4e494c8b7ae5aa46aea18165d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
