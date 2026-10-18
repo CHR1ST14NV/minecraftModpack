@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedae-addon.pw.toml"
+hash = "591a87e9f31b94d76289a91fdc6584e07b35368c0d92d57b2c2cb3c6a733b8d2"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true
