@@ -116,6 +116,11 @@ hash = "ac20c51937d8fa76f37bb1dee9c9ef2f0e51f0079f2f02547b38901e6350867e"
 metafile = true
 
 [[files]]
+file = "mods/bigger-ae2.pw.toml"
+hash = "2e21ce74e53c7476385c2232f1affb62bd35e234a409342b8b7fd8ac37b8b7d0"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
