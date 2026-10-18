@@ -226,11 +226,6 @@ hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
 
 [[files]]
-file = "mods/heart-crystals.pw.toml"
-hash = "4480ede1f6ed684cf8bdf4f5b410bf767559f92a0948c30d7074237cfa7af9b9"
-metafile = true
-
-[[files]]
 file = "mods/henny-fullbright.pw.toml"
 hash = "ad972e9e130c12b8d723962766659b4e51341c9c7a677c584858ddbbfbf0ea2b"
 metafile = true
