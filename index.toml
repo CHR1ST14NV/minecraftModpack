@@ -61,6 +61,11 @@ hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "2da00e4849404ef41ab679071c98db49640e5fe573ce55c66245204c9add7765"
+metafile = true
+
+[[files]]
 file = "mods/bclib-neoforge.pw.toml"
 hash = "f06ffaf5e2e06ee937a20f4c59644438ef33ce31c6ab289b579876b9803b4dc0"
 metafile = true
