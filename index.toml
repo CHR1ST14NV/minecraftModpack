@@ -11,6 +11,11 @@ hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true
 
 [[files]]
+file = "mods/ae2-better-villagers.pw.toml"
+hash = "f174707e24a2e40e95cf02c724fdb5fbb6fa579ffe119c062b889acaa1796537"
+metafile = true
+
+[[files]]
 file = "mods/ae2-import-export-card.pw.toml"
 hash = "f1f8075f8429887c1aa182a4d3f1e8cf2b662d04b95260e48374f52ab05ae591"
 metafile = true
