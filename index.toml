@@ -481,6 +481,11 @@ hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "7aa8bf129e51bda25386e18ebcd0db7eae278e95227406e8101a320cacf2f9b6"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
 metafile = true
