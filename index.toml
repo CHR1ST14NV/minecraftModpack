@@ -161,6 +161,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/cobblestone-generator.pw.toml"
+hash = "e3ee9a091e2cdb1b7ac7738c3c95d1e97532f5c34bc2648b680984b02e3e3aab"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
