@@ -16,6 +16,11 @@ hash = "f1f8075f8429887c1aa182a4d3f1e8cf2b662d04b95260e48374f52ab05ae591"
 metafile = true
 
 [[files]]
+file = "mods/ae2-omni-cells.pw.toml"
+hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
