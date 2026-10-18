@@ -206,6 +206,16 @@ hash = "2b5347f5adedf2d94ed456d4fd395dc751067cd0c01074834b864dc17afbbeea"
 metafile = true
 
 [[files]]
+file = "mods/ex-deorum.pw.toml"
+hash = "1c26e78328eb345bac9416b06b3283cd3c72729351efdd77349dd6c509e69a50"
+metafile = true
+
+[[files]]
+file = "mods/ex-machinis-divitiae-deorum.pw.toml"
+hash = "f420c2209d0e0bc391de188dc3b841931be1a2ffc4758ca78fab40bf2b29ae81"
+metafile = true
+
+[[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "03494a76b42b1b79e4d36a93317b8e884cafdb7e08f6103ce47ecd4e4df57645"
 metafile = true
