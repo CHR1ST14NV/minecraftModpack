@@ -111,6 +111,16 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/fish-n-ships.pw.toml"
 hash = "5cbbe4753f3b0f3b875609274a5099f2e77fd491a356dc34620fe33a16a21ee4"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
 
 [[files]]
