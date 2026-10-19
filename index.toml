@@ -276,11 +276,6 @@ hash = "5cbbe4753f3b0f3b875609274a5099f2e77fd491a356dc34620fe33a16a21ee4"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
