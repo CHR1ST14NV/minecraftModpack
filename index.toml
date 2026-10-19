@@ -146,6 +146,11 @@ hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
+file = "mods/cb-compressed-blocks.pw.toml"
+hash = "e21f86454414aa428d7b12ac7caf1d9a44c7a15ad5146800aa454ed823bba9c1"
+metafile = true
+
+[[files]]
 file = "mods/chococraft.pw.toml"
 hash = "97b575e638c5ce5d3d20d6520c17dfea7a8e0e056a5aee1da43875638e1086f4"
 metafile = true
