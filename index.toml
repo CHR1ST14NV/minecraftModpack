@@ -331,6 +331,11 @@ hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
 
 [[files]]
+file = "mods/haven-cobble-generators.pw.toml"
+hash = "fb5a635f60a332e0dd1291b20260454d254dbc7014f07caa85538961f551a8ca"
+metafile = true
+
+[[files]]
 file = "mods/henny-fullbright.pw.toml"
 hash = "ad972e9e130c12b8d723962766659b4e51341c9c7a677c584858ddbbfbf0ea2b"
 metafile = true
