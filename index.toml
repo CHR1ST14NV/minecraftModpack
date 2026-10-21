@@ -96,11 +96,6 @@ hash = "5e448ec91d1e74c75d59e6463ff4384ec927cbb21468715147cab8e81bf69b18"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
-metafile = true
-
-[[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
 hash = "e21f86454414aa428d7b12ac7caf1d9a44c7a15ad5146800aa454ed823bba9c1"
 metafile = true
