@@ -11,11 +11,6 @@ hash = "f174707e24a2e40e95cf02c724fdb5fbb6fa579ffe119c062b889acaa1796537"
 metafile = true
 
 [[files]]
-file = "mods/ae2-import-export-card.pw.toml"
-hash = "f1f8075f8429887c1aa182a4d3f1e8cf2b662d04b95260e48374f52ab05ae591"
-metafile = true
-
-[[files]]
 file = "mods/ae2-omni-cells.pw.toml"
 hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
 metafile = true
