@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ae2-better-villagers.pw.toml"
-hash = "f174707e24a2e40e95cf02c724fdb5fbb6fa579ffe119c062b889acaa1796537"
-metafile = true
-
-[[files]]
 file = "mods/ae2-omni-cells.pw.toml"
 hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
 metafile = true
