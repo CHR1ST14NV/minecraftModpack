@@ -26,11 +26,6 @@ hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "0b00e3fcc86a4ab7744269fc576bb23180a29dc0e44954511907a8b5386e3f53"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture-2-lava-fishing-addon.pw.toml"
 hash = "ce8c26bc5c68f5922c636e310029c6ccbdc02ce84e7cef571d55b6956c0f2bde"
 metafile = true
