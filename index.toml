@@ -351,11 +351,6 @@ hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
-file = "mods/mekanism.pw.toml"
-hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
-metafile = true
-
-[[files]]
 file = "mods/mielons-the-sift.pw.toml"
 hash = "a2be1e7cfc412555459fc98fcdfd6957411fff40a87a7ca5caf7ce13c61884ad"
 metafile = true
