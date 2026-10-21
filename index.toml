@@ -416,11 +416,6 @@ hash = "b26bd36253cdde4b7771d7191faff7cf2d783658ed7345adfd6b82a31ea978a5"
 metafile = true
 
 [[files]]
-file = "mods/powah.pw.toml"
-hash = "dc9fec9f7c8410ed73c1d9dec65df90b83af5a62a86e6a33b55dec5641f49f17"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
