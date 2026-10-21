@@ -501,11 +501,6 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
-file = "mods/spider-overhaul.pw.toml"
-hash = "b3067f888940c076f229228193ac3b7b3925d57503929ca9e6af9032a6d65e51"
-metafile = true
-
-[[files]]
 file = "mods/squat-grow.pw.toml"
 hash = "33f7395d4e7b429abf6d57899becf024149621a4e494c8b7ae5aa46aea18165d"
 metafile = true
